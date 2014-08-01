@@ -1,7 +1,8 @@
 <?php
 /**
  * Plugin Name: Kato Policy
- * Plugin URI: http://policy.kato.me
+ * Plugin URI: https://github.com/katomedia/kato-policy
+ * Git URI: https://github.com/katomedia/kato-policy
  * Description: Special functions for Kato Poicy
  * Version: 0.0.1
  * Author: Leo J.
